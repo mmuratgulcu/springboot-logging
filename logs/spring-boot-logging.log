@@ -1,0 +1,110 @@
+2020-05-31 18:35:51,003 INFO com.gulcu.murat.api.LogEndpoint [http-nio-8080-exec-1] get details methodu basladi
+2020-05-31 18:35:51,007 DEBUG com.gulcu.murat.api.LogEndpoint [http-nio-8080-exec-1] internalLogDetail methodu basladi
+2020-05-31 18:41:12,966 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting AppMain on E-NB510 with PID 11968 (C:\Users\mgulcu\Projects\SpringbootProjects\springboot-logging\target\classes started by mgulcu in C:\Users\mgulcu\Projects\SpringbootProjects\springboot-logging)
+2020-05-31 18:41:12,966 INFO org.springframework.boot.SpringApplication [restartedMain] The following profiles are active: prod
+2020-05-31 18:41:13,196 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-05-31 18:41:13,197 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2020-05-31 18:41:13,197 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-31 18:41:13,212 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-05-31 18:41:13,212 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 243 ms
+2020-05-31 18:41:13,249 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-31 18:41:13,282 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-05-31 18:41:13,292 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-31 18:41:13,297 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started AppMain in 0.368 seconds (JVM running for 377.053)
+2020-05-31 18:41:13,299 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-05-31 18:41:39,074 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [Thread-120] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-31 18:41:39,171 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting AppMain on E-NB510 with PID 11968 (C:\Users\mgulcu\Projects\SpringbootProjects\springboot-logging\target\classes started by mgulcu in C:\Users\mgulcu\Projects\SpringbootProjects\springboot-logging)
+2020-05-31 18:41:39,172 INFO org.springframework.boot.SpringApplication [restartedMain] The following profiles are active: prod
+2020-05-31 18:41:39,414 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-05-31 18:41:39,416 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2020-05-31 18:41:39,417 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-31 18:41:39,442 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-05-31 18:41:39,442 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 266 ms
+2020-05-31 18:41:39,480 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-31 18:41:51,207 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting AppMain on E-NB510 with PID 13568 (C:\Users\mgulcu\Projects\SpringbootProjects\springboot-logging\target\classes started by mgulcu in C:\Users\mgulcu\Projects\SpringbootProjects\springboot-logging)
+2020-05-31 18:41:51,210 INFO org.springframework.boot.SpringApplication [restartedMain] The following profiles are active: prod
+2020-05-31 18:41:51,253 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-05-31 18:41:51,253 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-05-31 18:41:52,140 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-05-31 18:41:52,148 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2020-05-31 18:41:52,148 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-31 18:41:52,209 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-05-31 18:41:52,210 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 957 ms
+2020-05-31 18:41:52,349 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-31 18:41:52,476 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-05-31 18:41:52,536 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-31 18:41:52,548 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started AppMain in 1.761 seconds (JVM running for 4.109)
+2020-05-31 18:42:15,040 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(7)-127.0.0.1] Application shutdown requested.
+2020-05-31 18:42:16,438 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [RMI TCP Connection(7)-127.0.0.1] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-31 18:42:29,414 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting AppMain on E-NB510 with PID 5932 (C:\Users\mgulcu\Projects\SpringbootProjects\springboot-logging\target\classes started by mgulcu in C:\Users\mgulcu\Projects\SpringbootProjects\springboot-logging)
+2020-05-31 18:42:29,417 INFO org.springframework.boot.SpringApplication [restartedMain] The following profiles are active: prod
+2020-05-31 18:42:29,468 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-05-31 18:42:29,468 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-05-31 18:42:30,299 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-05-31 18:42:30,307 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2020-05-31 18:42:30,308 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-31 18:42:30,377 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-05-31 18:42:30,378 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 910 ms
+2020-05-31 18:42:30,515 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-31 18:42:30,636 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-05-31 18:42:30,668 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-31 18:42:30,679 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started AppMain in 1.68 seconds (JVM running for 3.881)
+2020-05-31 18:44:28,272 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [Thread-117] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-31 18:44:28,375 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting AppMain on E-NB510 with PID 5932 (C:\Users\mgulcu\Projects\SpringbootProjects\springboot-logging\target\classes started by mgulcu in C:\Users\mgulcu\Projects\SpringbootProjects\springboot-logging)
+2020-05-31 18:44:28,375 INFO org.springframework.boot.SpringApplication [restartedMain] The following profiles are active: prod
+2020-05-31 18:44:28,692 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-05-31 18:44:28,694 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2020-05-31 18:44:28,694 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-31 18:44:28,714 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-05-31 18:44:28,714 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 335 ms
+2020-05-31 18:44:28,765 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-31 18:44:28,819 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-05-31 18:44:28,833 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-31 18:44:28,838 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started AppMain in 0.521 seconds (JVM running for 122.041)
+2020-05-31 18:44:28,841 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-05-31 18:44:34,195 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [Thread-120] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-31 18:44:34,308 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting AppMain on E-NB510 with PID 5932 (C:\Users\mgulcu\Projects\SpringbootProjects\springboot-logging\target\classes started by mgulcu in C:\Users\mgulcu\Projects\SpringbootProjects\springboot-logging)
+2020-05-31 18:44:34,309 INFO org.springframework.boot.SpringApplication [restartedMain] The following profiles are active: prod
+2020-05-31 18:44:34,572 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-05-31 18:44:34,573 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2020-05-31 18:44:34,573 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-31 18:44:34,590 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-05-31 18:44:34,591 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 277 ms
+2020-05-31 18:44:34,638 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-31 18:44:34,678 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-05-31 18:44:34,691 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-31 18:44:34,694 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started AppMain in 0.444 seconds (JVM running for 127.897)
+2020-05-31 18:44:34,696 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-05-31 18:44:43,606 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [Thread-237] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-31 18:45:36,155 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting AppMain on E-NB510 with PID 5932 (C:\Users\mgulcu\Projects\SpringbootProjects\springboot-logging\target\classes started by mgulcu in C:\Users\mgulcu\Projects\SpringbootProjects\springboot-logging)
+2020-05-31 18:45:36,157 INFO org.springframework.boot.SpringApplication [restartedMain] The following profiles are active: dev
+2020-05-31 18:45:36,402 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-05-31 18:45:36,403 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2020-05-31 18:45:36,404 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-31 18:45:36,422 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-05-31 18:45:36,422 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 262 ms
+2020-05-31 18:45:36,459 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-31 18:45:36,499 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-05-31 18:45:36,507 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-31 18:45:36,514 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started AppMain in 0.393 seconds (JVM running for 189.716)
+2020-05-31 18:45:36,516 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-05-31 18:47:22,120 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting AppMain on E-NB510 with PID 8864 (C:\Users\mgulcu\Projects\SpringbootProjects\springboot-logging\target\classes started by mgulcu in C:\Users\mgulcu\Projects\SpringbootProjects\springboot-logging)
+2020-05-31 18:47:22,123 INFO org.springframework.boot.SpringApplication [restartedMain] The following profiles are active: dev
+2020-05-31 18:47:22,169 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-05-31 18:47:22,170 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-05-31 18:47:23,075 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-05-31 18:47:23,085 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2020-05-31 18:47:23,085 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-31 18:47:23,155 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-05-31 18:47:23,156 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 986 ms
+2020-05-31 18:47:23,328 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-31 18:47:23,474 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-05-31 18:47:23,522 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-31 18:47:23,536 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started AppMain in 1.836 seconds (JVM running for 4.167)
+2020-05-31 18:47:32,442 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-31 18:47:32,443 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-05-31 18:47:32,452 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 8 ms
+2020-05-31 18:47:32,481 INFO com.gulcu.murat.api.LogEndpoint [http-nio-8080-exec-1] get details methodu basladi
+2020-05-31 18:47:32,482 DEBUG com.gulcu.murat.api.LogEndpoint [http-nio-8080-exec-1] internalLogDetail methodu basladi
+2020-05-31 18:47:50,067 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(2)-127.0.0.1] Application shutdown requested.
+2020-05-31 18:47:51,461 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [RMI TCP Connection(2)-127.0.0.1] Shutting down ExecutorService 'applicationTaskExecutor'
